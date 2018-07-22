@@ -1,2 +1,5 @@
 # Legato-Zwei
- Legato-Zewi is a new library replacing Legato.
+ Legato-Zwei is a new library replacing Legato.
+
+# License for Legato-Zwei
+ MIT License.
